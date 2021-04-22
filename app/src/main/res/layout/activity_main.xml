@@ -7,6 +7,12 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:text="Hello World!"
+        android:background="#ffff00"
+        android:gravity="bottom|right"
+        android:layout_gravity="center_horizontal|center_vertical"/>
 
 </LinearLayout>
